@@ -1,0 +1,3 @@
+Add to cart
+e11864ca-de86-4082-95df-4ae9db32a985,input,elem_18
+ea4e4bb3-5e39-4764-a355-a3f21ea26eb7,tap,elem_149

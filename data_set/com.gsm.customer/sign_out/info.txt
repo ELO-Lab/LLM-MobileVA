@@ -1,0 +1,6 @@
+sign out
+a1372627-d5ac-4bcf-8a10-41974288c26c,tap,elem_97
+9f8773ba-002a-4c69-a49e-92e3d95366e6,swipe_up,screen
+693862f7-110b-44b0-b2ae-e17671fa6993,swipe_up,screen
+f5d0cea3-a573-4d90-92b1-547147bf0b10,tap,elem_82
+179f8dec-6046-473e-92b3-f478f8df6cc7,tap,elem_10

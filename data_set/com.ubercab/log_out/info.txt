@@ -1,0 +1,6 @@
+log out uber app
+c4858157-0210-4a55-bf4c-19fa5d027db9,tap,elem_62
+53ee1dbb-689d-4979-a59f-ba7ddb4926e0,tap,elem_70
+2336cfe6-7cfd-4b13-8e71-246695c8f5e8,swipe_up,screen
+467b8015-f066-42a5-80d2-ef94fd193c9d,tap,elem_74
+7945b301-1cd3-421d-acbf-6a09eada4ab9,tap,elem_86

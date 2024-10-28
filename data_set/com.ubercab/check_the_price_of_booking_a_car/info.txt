@@ -1,0 +1,5 @@
+check the price of booking a car 
+bd95deae-2287-467a-941f-32f82ebc8fc5,tap,elem_21
+4a27069c-8187-4bdc-8f13-db9848d80109,input,elem_45
+faea51a5-f79d-4f37-b95b-8bbf0013bfc3,tap,elem_56
+51546643-cb87-41b3-8a99-abc4e06dbcce,answer,screen

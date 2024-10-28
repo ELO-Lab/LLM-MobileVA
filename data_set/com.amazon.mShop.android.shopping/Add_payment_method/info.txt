@@ -1,0 +1,7 @@
+Add payment method
+7115b308-4b30-4c0b-9468-0d594809de59,tap,elem_38
+3ced207b-a315-4b2f-9d56-444ed15029a1,tap,elem_49
+80d78196-d25b-40fb-ab18-b264e0886cb9,swipe_up,screen
+953518fe-59c0-4210-9ae5-4ab3c4e01a49,swipe_up,screen
+2748513f-35d1-4508-8787-bace796a81a0,tap,elem_177
+f5aa6612-c133-4de9-b624-06024aa94595,tap,elem_58

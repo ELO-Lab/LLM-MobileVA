@@ -1,0 +1,4 @@
+Search items by voice
+43198e48-de87-4026-ad62-bbb9f062fb93,tap,elem_22
+7f59d39b-1d80-4d33-94bb-60c45810ace8,tap,elem_24
+369a277b-1641-400e-ab68-1ddeeec4cb35,tap,elem_14

@@ -1,0 +1,281 @@
+{
+    "org.telegram.messenger": {
+        "total_action": 56,
+        "total_correct_action": 18,
+        "total_tap_action": 42,
+        "total_correct_tap_action": 13,
+        "total_input_action": 13,
+        "total_correct_input_action": 5,
+        "total_swipe_action": 1,
+        "total_correct_swipe_action": 0,
+        "incorrect_actions": [
+            {
+                "request": "Change language",
+                "element_id": "elem_83",
+                "action": "tap",
+                "expected_action": "swipe_up",
+                "expected_element_id": "screen"
+            },
+            {
+                "request": "Change language",
+                "element_id": "elem_33",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_17"
+            },
+            {
+                "request": "Change language",
+                "element_id": "elem_32",
+                "action": "tap",
+                "expected_action": "input",
+                "expected_element_id": "elem_16"
+            },
+            {
+                "request": "Change language",
+                "element_id": "elem_22",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_21"
+            },
+            {
+                "request": "Inbox",
+                "element_id": "elem_54",
+                "action": "return",
+                "expected_action": "tap",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Inbox",
+                "element_id": "elem_59",
+                "action": "return",
+                "expected_action": "input",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Inbox",
+                "element_id": "elem_44",
+                "action": "return",
+                "expected_action": "tap",
+                "expected_element_id": "elem_35"
+            },
+            {
+                "request": "Inbox",
+                "element_id": "elem_55",
+                "action": "return",
+                "expected_action": "tap",
+                "expected_element_id": "elem_44"
+            },
+            {
+                "request": "Inbox",
+                "element_id": "elem_50",
+                "action": "return",
+                "expected_action": "tap",
+                "expected_element_id": "elem_48"
+            },
+            {
+                "request": "Check infor by bot",
+                "element_id": "elem_18",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_33"
+            },
+            {
+                "request": "Check infor by bot",
+                "element_id": "elem_47",
+                "action": "return",
+                "expected_action": "input",
+                "expected_element_id": "elem_40"
+            },
+            {
+                "request": "Check infor by bot",
+                "element_id": "elem_43",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_45"
+            },
+            {
+                "request": "Video call by back cam",
+                "element_id": "elem_8",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_21"
+            },
+            {
+                "request": "Video call by back cam",
+                "element_id": "elem_37",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_18"
+            },
+            {
+                "request": "Video call by back cam",
+                "element_id": "elem_17",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_14"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_54",
+                "action": "return",
+                "expected_action": "tap",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_59",
+                "action": "return",
+                "expected_action": "input",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_18",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_30"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_47",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_45"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_17",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_16"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_42",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_44"
+            },
+            {
+                "request": "Create new bot",
+                "element_id": "elem_44",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_46"
+            },
+            {
+                "request": "Video call by front cam",
+                "element_id": "elem_37",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_14"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_54",
+                "action": "return",
+                "expected_action": "tap",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_59",
+                "action": "return",
+                "expected_action": "input",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_18",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_33"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_54",
+                "action": "return",
+                "expected_action": "input",
+                "expected_element_id": "elem_47"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_47",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_49"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_52",
+                "action": "tap",
+                "expected_action": "input",
+                "expected_element_id": "elem_40"
+            },
+            {
+                "request": "Delete bot",
+                "element_id": "elem_50",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_42"
+            },
+            {
+                "request": "Call",
+                "element_id": "elem_54",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Call",
+                "element_id": "elem_59",
+                "action": "tap",
+                "expected_action": "input",
+                "expected_element_id": "elem_19"
+            },
+            {
+                "request": "Create new group",
+                "element_id": "elem_19",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_24"
+            },
+            {
+                "request": "Create new group",
+                "element_id": "elem_22",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_41"
+            },
+            {
+                "request": "Sign out account",
+                "element_id": "elem_56",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_41"
+            },
+            {
+                "request": "Sign out account",
+                "element_id": "elem_25",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_32"
+            },
+            {
+                "request": "Sign out account",
+                "element_id": "elem_41",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_"
+            },
+            {
+                "request": "Sign out account",
+                "element_id": "elem_13",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_"
+            }
+        ],
+        "flows": []
+    }
+}

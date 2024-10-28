@@ -1,0 +1,3 @@
+Cancel product in cart
+c982edd4-4414-4d27-9dac-db9d1b7a2b69,tap,elem_41
+b2ee74c1-aefa-4a20-ba38-e10dc68a8508,tap,elem_88

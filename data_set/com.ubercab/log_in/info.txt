@@ -1,0 +1,3 @@
+log in uber app
+b246ab05-ccbc-4fc1-ac3f-068fc692e876,input,elem_24
+8c147938-beea-46b2-8f28-7618cff1e44b,tap,elem_26

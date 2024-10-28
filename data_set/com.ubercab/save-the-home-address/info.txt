@@ -1,0 +1,6 @@
+save the home address
+81d2be84-0e96-4be3-8c29-af576f4b77d4,tap,elem_27
+3dfacc85-5cd4-41ca-b256-de1df2ce9d9f,tap,elem_75
+7984b427-ef25-49bb-ba6e-82ee0fe607b0,tap,elem_18
+c45f3c43-204d-4a85-967d-fd8b162de2c7,input,elem_17
+1ba1e6dc-0fe4-4578-a7d6-80a6c7006aa1,tap,elem_26

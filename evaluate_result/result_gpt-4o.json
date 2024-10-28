@@ -1,0 +1,16 @@
+{
+    "com.ss.android.ugc.trill": {
+        "total_action": 5,
+        "total_correct_action": 5,
+        "total_tap_action": 3,
+        "total_correct_tap_action": 3,
+        "total_input_action": 1,
+        "total_correct_input_action": 1,
+        "total_swipe_action": 1,
+        "total_correct_swipe_action": 1,
+        "total_sucessful_flows": 3,
+        "total_flows": 3,
+        "incorrect_actions": [],
+        "flows": []
+    }
+}

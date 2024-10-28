@@ -1,0 +1,2 @@
+play next video
+d4d262c9-3e07-4c30-8f4b-2ec4d5003c73,swipe_up,screen

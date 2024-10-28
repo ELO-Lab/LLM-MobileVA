@@ -1,0 +1,12 @@
+register a new account 
+98b1b969-0abe-4a2e-8c1c-a6d23d088585,tap,elem_13
+ae5bbab6-bcbd-4aa2-87af-13ff50010821,tap,elem_16
+d9fa3955-b52d-42fc-9a43-92b58eb6823c,tap,elem_24
+56da634b-8aae-40e0-8d72-b9e65dbc3c0b,tap,elem_30
+e17ccb1f-5e86-4acc-bbc2-c9a72ec1cf73,tap,elem_29
+6cc70889-a843-4409-a104-2333a205f392,input,elem_28
+fd397bae-cf78-4aaa-b950-4dd335179e77,tap,elem_31
+10246c33-85fc-4478-93fe-ccc86dfca8a2,tap,elem_31
+90289574-e7d7-4cc4-af3a-02cd25c84b6d,tap,elem_33
+cff8e450-c11a-40b1-bf65-e8c424cac6ff,tap,elem_19
+1d2cbd92-d05c-406f-8827-a34c98bc3851,tap,elem_45

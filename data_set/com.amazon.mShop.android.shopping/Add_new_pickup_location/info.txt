@@ -1,0 +1,9 @@
+Add a new pickup location
+a8f8fda2-1f1f-4dd5-a6be-432541fb7aa9,tap,elem_53
+32fe10b9-f768-4879-971f-3bbe36a47e40,tap,elem_49
+6d73400a-e3e2-4cd9-8050-24671d8dc714,swipe_up,screen
+b5e70b95-3e6e-4235-b1dd-f74137be0cb1,tap,elem_99
+ed45bb20-ea73-48a2-b6a4-9f353f438d6a,tap,elem_42
+6fd436f6-e78b-4173-a972-0bb5d58a54d5,input,elem_36
+802b07d5-e0d9-4097-8402-b866f8d4d966,tap,elem_124
+97ee2af3-bd8d-4ca4-9fd2-36462c25e4c2,tap,elem_69

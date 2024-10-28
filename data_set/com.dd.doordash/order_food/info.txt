@@ -1,0 +1,12 @@
+order food
+fb4ffbbf-dd66-4ac8-a0ad-60a4c0472bf9,input,elem_30
+b508c7b1-09d9-4405-84d0-c3622d94aceb,tap,elem_59
+1d9b9e86-dc1a-4006-a226-1721c3b93804,swipe_up,screen
+c5166c6a-eed0-495c-8168-1ebf7732bb27,tap,elem_35
+fd0f4112-9925-44e9-842f-c2f48467c627,tap,elem_56
+509b2576-46d7-4875-991c-c75895a097da,tap,elem_59
+6d92065a-64e3-42f0-95f8-7f68c694f203,tap,elem_40
+0def28f6-4ccd-4ec8-af94-3fc34a4bf38a,tap,elem_90
+e2fa032c-2e89-4db4-a3b5-5f51788c1b9a,tap,elem_106
+1d546702-41fc-4116-99a4-9095abfb8958,tap,elem_110
+8a9964d5-3683-4a36-bb6f-3bea9b29022a,tap,elem_21

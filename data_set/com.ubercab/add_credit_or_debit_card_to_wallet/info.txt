@@ -1,0 +1,5 @@
+add credit or debit card to the wallet 
+2fa8b09b-9215-4261-8c72-f4bf7df2846d,tap,elem_83
+6d931937-423c-41e0-bd65-1bea89b5d9c6,tap,elem_48
+b152a816-5319-443c-91b2-161a7883b9df,tap,elem_39
+fcd52b5c-4c4d-4b61-b6ef-74febe625e63,tap,elem_21

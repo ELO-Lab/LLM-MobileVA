@@ -1,0 +1,152 @@
+{
+    "com.ss.android.ugc.trill": {
+        "total_action": 5,
+        "total_correct_action": 5,
+        "total_tap_action": 3,
+        "total_correct_tap_action": 3,
+        "total_input_action": 1,
+        "total_correct_input_action": 1,
+        "total_swipe_action": 1,
+        "total_correct_swipe_action": 1,
+        "incorrect_actions": [],
+        "flows": []
+    },
+    "com.ubercab": {
+        "total_action": 51,
+        "total_correct_action": 43,
+        "total_tap_action": 41,
+        "total_correct_tap_action": 34,
+        "total_input_action": 8,
+        "total_correct_input_action": 7,
+        "total_swipe_action": 1,
+        "total_correct_swipe_action": 1,
+        "incorrect_actions": [
+            {
+                "request": "check the price of booking a car",
+                "element_id": "elem_53",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_56"
+            },
+            {
+                "request": "reserve a ride",
+                "element_id": "elem_31",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_43"
+            },
+            {
+                "request": "reserve a ride",
+                "element_id": "elem_29",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_43"
+            },
+            {
+                "request": "register a new account",
+                "element_id": "elem_27",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_29"
+            },
+            {
+                "request": "register a new account",
+                "element_id": "elem_31",
+                "action": "tap",
+                "expected_action": "input",
+                "expected_element_id": "elem_28"
+            },
+            {
+                "request": "save the work address",
+                "element_id": "elem_21",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_27"
+            },
+            {
+                "request": "save the home address",
+                "element_id": "elem_21",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_27"
+            },
+            {
+                "request": "book a car",
+                "element_id": "elem_48",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_56"
+            }
+        ],
+        "flows": []
+    },
+    "com.gsm.customer": {
+        "total_action": 23,
+        "total_correct_action": 15,
+        "total_tap_action": 17,
+        "total_correct_tap_action": 11,
+        "total_input_action": 4,
+        "total_correct_input_action": 4,
+        "total_swipe_action": 2,
+        "total_correct_swipe_action": 0,
+        "incorrect_actions": [
+            {
+                "request": "book a car taxi",
+                "element_id": "elem_43",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_44"
+            },
+            {
+                "request": "book a car taxi",
+                "element_id": "elem_70",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_46"
+            },
+            {
+                "request": "update email",
+                "element_id": "elem_98",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_97"
+            },
+            {
+                "request": "sign out",
+                "element_id": "elem_15",
+                "action": "swipe_up",
+                "expected_action": "swipe_up",
+                "expected_element_id": "screen"
+            },
+            {
+                "request": "sign out",
+                "element_id": "elem_16",
+                "action": "tap",
+                "expected_action": "swipe_up",
+                "expected_element_id": "screen"
+            },
+            {
+                "request": "sign out",
+                "element_id": "elem_81",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_82"
+            },
+            {
+                "request": "book a motorcycle taxi",
+                "element_id": "elem_48",
+                "action": "tap",
+                "expected_action": "tap",
+                "expected_element_id": "elem_49"
+            },
+            {
+                "request": "book a motorcycle taxi",
+                "element_id": "elem_25",
+                "action": "input",
+                "expected_action": "tap",
+                "expected_element_id": "elem_46"
+            }
+        ],
+        "flows": []
+    }
+}

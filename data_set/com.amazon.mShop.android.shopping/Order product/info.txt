@@ -1,0 +1,5 @@
+Order product
+f96558b0-64d7-4714-834b-81746732c2e3,input,elem_18
+5b13753f-eaf7-40d6-b5ed-49fac54da619,tap,elem_143
+b46e8da7-6e6e-4a45-bb69-b9ca1fa27966,swipe_up,screen
+abae51ea-da9b-4d25-bde6-6d77b0bb343b,tap,elem_345

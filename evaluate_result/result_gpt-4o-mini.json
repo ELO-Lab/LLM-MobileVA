@@ -1,0 +1,24 @@
+{
+    "com.ss.android.ugc.trill": {
+        "total_action": 5,
+        "total_correct_action": 4,
+        "total_tap_action": 3,
+        "total_correct_tap_action": 3,
+        "total_input_action": 1,
+        "total_correct_input_action": 1,
+        "total_swipe_action": 1,
+        "total_correct_swipe_action": 0,
+        "total_sucessful_flows": 2,
+        "total_flows": 3,
+        "incorrect_actions": [
+            {
+                "request": "play next video",
+                "element_id": "elem_74",
+                "action": "tap",
+                "expected_action": "swipe_up",
+                "expected_element_id": "screen"
+            }
+        ],
+        "flows": []
+    }
+}

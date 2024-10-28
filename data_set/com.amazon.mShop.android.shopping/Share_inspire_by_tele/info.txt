@@ -1,0 +1,7 @@
+Share video by Tele
+0ff3969a-98d7-4f19-b967-d1d06b81c7ac,tap,elem_60
+1783fa9a-80dc-47f0-8cd1-f9e12d7ec176,tap,elem_70
+075295f2-42a0-4699-8a9d-656e24970244,tap,elem_20
+a9b9148c-5ea7-40f1-b015-79ae60f251a2,input,elem_18
+44ee67c6-c2e2-4f93-8b9a-1539308853d3,tap,elem_23
+99292c55-5afb-4e42-8631-cf237350395d,tap,elem_46

@@ -1,0 +1,8 @@
+Delete bot
+4361e431-0d20-4575-98e4-96bc042b7d2a,tap,elem_19
+9a945b4d-18ed-40be-b559-d37b482a2543,input,elem_19
+c524fdf2-3ed3-4ad3-a460-79e985f32221,tap,elem_33
+59f9411b-bac5-4358-894e-ea392a59c7e5,input,elem_47
+7c034c80-c372-44b1-8c00-42bd8127afa0,tap,elem_49
+36eec2ad-b70f-4c0b-abd8-342dbcef4837,input,elem_40
+f5d3033e-79ac-44ed-b6ef-191d49e7cc8a,tap,elem_42

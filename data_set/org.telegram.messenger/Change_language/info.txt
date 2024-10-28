@@ -1,0 +1,8 @@
+Change language
+4361e431-0d20-4575-98e4-96bc042b7d2a,tap,elem_16
+29f7fe32-7859-41df-adbb-cbfea05a1a39,tap,elem_41
+f12e83d3-7589-48d5-a420-bf93f8e70779,swipe_up,screen
+2a83c9a6-89f6-4890-9f90-55f01aa64d86,tap,elem_51
+9abfe869-c584-4bc6-9083-8442c4322d9f,tap,elem_17
+d591a932-a1b1-48b8-bf5e-21760ae20f43,input,elem_16
+e3eb2564-d15b-41e7-bb27-e7a8c34fb13f,tap,elem_21

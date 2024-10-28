@@ -1,0 +1,4 @@
+add google pay to the payment 
+fb4ffbbf-dd66-4ac8-a0ad-60a4c0472bf9,tap,elem_20
+65e26194-7af4-4f58-8369-91e6c75cbb3d,tap,elem_29
+d7cbf539-7ba0-4d0d-b87d-2fe999e11f34,tap,elem_22

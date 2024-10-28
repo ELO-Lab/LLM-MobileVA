@@ -1,0 +1,5 @@
+log out of Facebook
+5ac02ee5-5d3b-4c63-9521-851c2b9c0d7d,tap,elem_101
+dbf08cf9-7394-4fa2-a481-0166d16658fd,swipe_up,screen
+44f2520c-0601-4f72-9e37-29e9ec7fc9a8,tap,elem_68
+558cc175-83c6-439f-8b0b-ae09d0f13bd9,tap,elem_11
